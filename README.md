@@ -31,6 +31,8 @@ month={Oct}
 - Case Study 2: Classifier Combination
   - [All results (all systems, all metrics, all classifier combinations)](https://github.com/SAILResearch/replication-classifier_conf_config_bugloc/files/1490023/all-classifier-results.zip)
   - [View randomly-selected classifiers (CSV format)](https://github.com/SAILResearch/replication-classifier_conf_config_bugloc/files/1490026/randomly-selected-classifiers.zip)
+  
+An interactive visualization of the results can be found [here](http://sailhome.cs.queensu.ca/replication/sthomas/TSE2013/bl/results.html).
 
 ## Tools
 

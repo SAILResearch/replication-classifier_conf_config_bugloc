@@ -36,6 +36,6 @@ An interactive visualization of the results can be found [here](http://sailhome.
 
 ## Tools
 
-Our ```lscp``` preprocessing tool is also on [GitHub](https://github.com/doofuslarge/lscp).
+Our ```lscp``` preprocessing tool is also on [GitHub](https://github.com/stepthom/lscp).
 
-Our ```lucene-lda``` LDA-based BL tool is also on [GitHub](https://github.com/doofuslarge/lucene-lda). 
+Our ```lucene-lda``` LDA-based BL tool is also on [GitHub](https://github.com/stepthom/lucene-lda). 

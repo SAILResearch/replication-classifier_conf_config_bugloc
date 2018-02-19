@@ -24,6 +24,8 @@ month={Oct}
 
 ## Data and Scripts
 
+- Ground Truth Data:
+  - [Bug-code links](https://github.com/SAILResearch/replication-classifier_conf_config_bugloc/files/1738073/bugs-to-files.zip)
 - Case Study 1: Component Classifier Investigation
   - [All classifier results (all systems, all metrics, IR- and EM-based classifiers)](https://github.com/SAILResearch/replication-classifier_conf_config_bugloc/files/1490023/all-classifier-results.zip)
   - [HSD results (all systems, all factor levels, top-20 metric)](https://github.com/SAILResearch/replication-classifier_conf_config_bugloc/files/1490036/hsd-results.zip)
